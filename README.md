@@ -8,6 +8,7 @@ Angular learning repo.
 
 ## 19.10.2025 - Kurs Od Zera do Fullstack Developera
 **Sekcje 1-2:** Wprowadzenie, instalacja, omówienie środowiska pod prace z Angular
-**Sekcja 3: ** Pierwsza aplikacja w Angular
+
+**Sekcja 3:** Pierwsza aplikacja w Angular
 
 
