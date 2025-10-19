@@ -8,4 +8,6 @@ Angular learning repo.
 
 ## 19.10.2025 - Kurs Od Zera do Fullstack Developera
 Sekcje 1-3: 
+<img width="917" height="578" alt="image" src="https://github.com/user-attachments/assets/024f1ae0-ceea-4c88-ad8d-c27c525fda78" />
+
 
